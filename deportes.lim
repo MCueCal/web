@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>imagenes</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Deportes </titulo>
+        <subtitulo>Reconocimento de deportes</subtitulo>
+        <autor>Moisés Cuello</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Deportes</cabeceira>
+              <pe>Presentación</pe>
+              <imaxe>Deportes.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="14">En el dia de hoy aprenderemos a identificar los diferentes deportes que existen.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <cabeceira>Hacer parejas de deportes</cabeceira>
+              <pe>Actividad 1</pe>
+              <parellas>1.png</parellas>
+              <parellas>7.png</parellas>
+              <parellas>11.png</parellas>
+              <parellas>12.png</parellas>
+              <parellas>13.png</parellas>
+              <parellas>2.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>15</tempo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>4</tipo>
+              <cabeceira>Sopa de letras de deportes</cabeceira>
+              <pe>Actividad 2</pe>
+              <modo>2</modo>
+              <sopa enun="3.png">beisbol</sopa>
+              <sopa enun="2.png">baloncesto</sopa>
+              <sopa enun="6.png">criquet</sopa>
+              <sopa enun="9.png">golf</sopa>
+              <sopa enun="4.png">boxeo</sopa>
+              <sopa enun="8.png">americano</sopa>
+              <sopa enun="7.png">futbol</sopa>
+              <sopa enun="10.png">hockey</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>abcdefghijklmnopqrstuvwxyz</fondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>Completa la imagen donde se encuentran todos los deportes</cabeceira>
+              <pe>Actividad 3</pe>
+              <imaxe>Deportes.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
